@@ -1,0 +1,6 @@
+version: 1
+platform: https://platform.2tis.io
+apps:
+  qa-gh:
+    entry: worker.ts
+    public: true

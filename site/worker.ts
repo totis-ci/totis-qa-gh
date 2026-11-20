@@ -1,1 +1,1 @@
-export default { async fetch() { return new Response('qa-gh v2'); } };
+export default { async fetch() { return new Response('qa-gh v3'); } };
